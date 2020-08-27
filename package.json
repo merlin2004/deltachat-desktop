@@ -125,7 +125,7 @@
     "@types/sass": "^1.16.0",
     "@types/url-parse": "^1.4.3",
     "depcheck": "^0.8.4",
-    "electron": "6.1.9",
+    "electron": "7.2.4",
     "electron-builder": "^22.6.0",
     "electron-devtools-installer": "^2.2.4",
     "electron-notarize": "^0.3.0",
